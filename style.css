@@ -1,0 +1,27 @@
+*{
+   background-image: url("fond.webp");
+}
+.parent{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.image{
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+}
+.image #img1 {
+    display: inline-block;
+    width: 10%;
+}
+.image #img2 {
+    display: inline-block;    
+    width: 20%;
+}
+.image #img3 {
+    display: inline-block;
+    width: 30%;
+}
